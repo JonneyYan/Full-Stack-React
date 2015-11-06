@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+name	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "name": "full-stack-react",$/;"	function	line:2
+version	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "version": "1.0.0",$/;"	function	line:3
+description	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "description": "",$/;"	function	line:4
+main	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "main": "index.js",$/;"	function	line:5
+scripts	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "scripts": {$/;"	function	line:6
+test	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	function	line:7
+repository	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "repository": {$/;"	function	line:9
+type	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^    "type": "git",$/;"	function	line:10
+url	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^    "url": "git+https:\/\/jonneyyan@github.com\/JonneyYan\/Full-Stack-React.git"$/;"	function	line:11
+author	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "author": "",$/;"	function	line:13
+license	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "license": "ISC",$/;"	function	line:14
+bugs	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "bugs": {$/;"	function	line:15
+url	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^    "url": "https:\/\/github.com\/JonneyYan\/Full-Stack-React\/issues"$/;"	function	line:16
+homepage	C:\cygwin64\home\PC-109540\full-stack-react\package.json	/^  "homepage": "https:\/\/github.com\/JonneyYan\/Full-Stack-React#readme"$/;"	function	line:18
