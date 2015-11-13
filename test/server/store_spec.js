@@ -1,8 +1,8 @@
 import {Map, fromJS} from 'immutable';
 import {expect} from 'chai';
-import {SET_ENTRIES, NEXT, VOTE} from '../src/actions'
+import {SET_ENTRIES, NEXT, VOTE} from '../../src/actions'
 
-import makeStore from '../src/store';
+import makeStore from '../../src/store';
 
 describe('store', () => {
   it('is a Redux store configured with the correct reducer', () => {
